@@ -42,7 +42,7 @@ Then clone [this repo you are reading ](https://github.com/venkatramanm/beckn-ga
 
 ## Link to Experience Center
 
-[Beckn registry](https://gateway.becknprotocol.io/login)
+[Beckn gateway](https://gateway.becknprotocol.io/login)
 
 
 ## Contributing guidelines
